@@ -7,3 +7,5 @@ To use the library in your own sketch, select it from *Sketch > Import Library*.
 
 -------------------------------------------------------------------------------------------------------------------
 This library is based on work done by DFROBOT (www.dfrobot.com).
+
+//This library is used for ESP8266 NodeMCU
